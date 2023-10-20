@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 20 Oct 2023, 20:02:01
+Last generated: 20 Oct 2023, 21:01:56
 </div>
 <div class="stdin"><span class="ps1-path">hboutemy@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Hervé Boutemy</b> registered=13y, uid=7462, gid=17
   contributed to 284 repositories <b><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
@@ -871,15 +871,15 @@ dr-x         LICENSE
                       <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2722323049001814 0,1.2722323049001814 z"/>
                       <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2722323049001814 1.7,2.2722323049001814 z"/>
                     </g>
-                    <g transform="translate(-6.8, 9.891107078039926)">
+                    <g transform="translate(-6.8, 9.88021778584392)">
                       <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1088929219600727 0,1.1088929219600727 z"/>
-                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1088929219600727 1.7,2.1088929219600727 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.11978221415608 0,1.1197822141560798 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1197822141560798 1.7,2.11978221415608 z"/>
                     </g>
-                    <g transform="translate(-8.5, 10.836660617059891)">
+                    <g transform="translate(-8.5, 10.847549909255898)">
                       <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.163339382940109 0,1.1633393829401089 z"/>
-                      <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1633393829401089 1.7,2.163339382940109 z"/>
+                      <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1524500907441015 0,1.1524500907441015 z"/>
+                      <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1524500907441015 1.7,2.1524500907441015 z"/>
                     </g>
                     <g transform="translate(-10.2, 11.934664246823957)">
                       <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -987,7 +987,7 @@ dr-x         LICENSE
 
 
 
-<footer>Connection reset by 23.217.13.115</footer></pre>
+<footer>Connection reset by 227.49.145.18</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
